@@ -5,18 +5,18 @@
   
   <br />
   
-  <a href="https://discord.gg/kelasterbuka">
+  <a href="https://discord.gg/NEBqnst6MQ">
     <img src="https://img.shields.io/discord/1234567890?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
   </a>
   <a href="https://www.youtube.com/@KelasTerbuka">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCkXmLjEr95LVtGuIm3l2dPg?color=FF0000&label=Subscribers&logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" />
   </a>
-  <a href="https://kelasterbuka.id">
+  <a href="https://kelasterbuka.biz.id/">
     <img src="https://img.shields.io/website?label=Website&logo=google-chrome&style=for-the-badge&url=https%3A%2F%2Fkelasterbuka.id" alt="Website" />
   </a>
-  <a href="LICENSE">
+  <!-- <a href="LICENSE">
     <img src="https://img.shields.io/github/license/kelasterbuka/community-web?color=blue&style=for-the-badge" alt="License" />
-  </a>
+  </a> -->
 
   <br />
   <br />
